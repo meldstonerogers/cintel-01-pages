@@ -1,23 +1,22 @@
-# My Website Title 
+# Welcome! 
 
-My first website using Markdown and GitHub Pages.
+This is my first website using Markdown and GitHub Pages.
 
-## Links (Two hashes is a second level heading)
+## Links 
 
-Here's a clickable link: [My favorite AI assistant](https://chat.openai.com/)
+Here's a clickable link: [My favorite AI assistant](www.chatpgt.com)
 
 ## Images
 
 Images look like links except with an exclamation directly in front
 
-![My Shiny Image](https://raw.githubusercontent.com/denisecase/pyshiny-penguins-dashboard-express/main/images/LocalAppRunning.JPG)
+![Sunset]((https://t4.ftcdn.net/jpg/01/04/78/75/360_F_104787586_63vz1PkylLEfSfZ08dqTnqJqlqdq0eXx.jpg)
 
 ## Reminders
 
-Use a dash space for unordered lists
+I plan to learn how to: 
 
-- Spaces matter
+- Add a jekyll theme
 
-- Spelling matters
+- Further cusotmize a website
 
-- Capitalization matters
